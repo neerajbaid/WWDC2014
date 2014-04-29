@@ -1,0 +1,188 @@
+[
+    {
+        "latitude":37.317299,
+        "longitude":-121.972101,
+        "description":"•  Graduated from The Harker School class of 2013.\n•  While there, I founded TEDxHarkerSchool.\n•  I was one of the youngest TEDx founders ever.",
+        "category":"EDUCATION",
+        "name":"The Harker School",
+        "red":"0",
+        "green":"91",
+        "blue":"64",
+        "title_links":[],
+        "text_for_title_links":[],
+        "body_links":["http://tedx.harker.org"],
+        "text_for_body_links":["TEDxHarkerSchool"]
+    },
+    {
+        "latitude":37.776473,
+        "longitude":-122.392091,
+        "description":"•  I will be on Venmo's SF iOS Team during Summer 2014.\n•  I'll either work on the iOS app or the Venmo Touch SDK.",
+        "category":"WORK",
+        "name":"Venmo",
+        "red":"72",
+        "green":"152",
+        "blue":"207"
+    },
+ {
+ "latitude": 37.288460,
+ "longitude":-121.768007,
+ "description":"•  Save gift cards on your iPhone.\n•  Cards are accepted universally due to a standardized barcode display.\n•  This was my first experience building the server-side architecture in addition to the front end for an iOS app.",
+ "category":"PROJECT",
+ "name":"giftbook",
+ "red":"77",
+ "green":"187",
+ "blue":"208",
+ "title_links":["http://gftbk.com"],
+ "text_for_title_links":["giftbook"],
+ },
+ {
+ "latitude":37.429984,
+ "longitude":-122.173642,
+ "description":"•  This was the first app I ever built.\n•  I made it while teaching myself iOS with Stanford's lectures.\n•  Zero touches are required by the user to shorten a URL.",
+ "category":"PROJECT",
+ "name":"URL Shortener for goo.gl",
+ "red":"20",
+ "green":"20",
+ "blue":"20",
+ "title_links":["https://itunes.apple.com/us/app/url-shortener-for-googles/id622377001?mt=8"],
+ "text_for_title_links":["URL Shortener for goo.gl"]
+ },
+ {
+ "latitude":37.476908,
+ "longitude":-122.151705,
+ "description":"•  I completed unit testing of Poshmark's iPhone and iPad apps.",
+ "category":"WORK",
+ "name":"Poshmark",
+ "red":"162",
+ "green":"50",
+ "blue":"66"
+ },
+ {
+ "latitude":35.194021,
+ "longitude":-119.147026,
+ "description":"•  Travel the world through the eyes of Instagram, right from your iPhone.\n•  I built Take Me Away while on a bus ride to LA for HackTech.",
+ "category":"PROJECT",
+ "name":"Take Me Away",
+ "red":"243",
+ "green":"97",
+ "blue":"0",
+ "title_links":["https://itunes.apple.com/us/app/take-me-away/id809039099?mt=8"],
+ "text_for_title_links":["Take Me Away"]
+ },
+ {
+ "latitude":42.265809,
+ "longitude":-83.748760,
+ "description":"•  Crowdsourced cloud-based contact sharing iOS app.\n•  Awarded Top 10 at MHacks, the largest hackathon ever at the time.",
+ "category":"PROJECT",
+ "name":"Rolodex",
+ "red":"220",
+ "green":"220",
+ "blue":"220"
+ },
+ {
+ "latitude":39.949271,
+ "longitude":-75.190980,
+ "description":"•  At PennApps, we built an Objective-C interpreter in Objective-C.\n•  With the interpreter, we were able to run native Objective-C code and emulate the iOS app lifecycle on an iPad.",
+ "category":"PROJECT",
+ "name":"iXcode",
+ "red":"76",
+ "green":"153",
+ "blue":"251"
+ },
+ {
+ "latitude":37.869575,
+ "longitude":-122.258872,
+ "description":"•  I am a freshman at UC Berkeley, majoring in EECS.",
+ "category":"EDUCATION",
+ "name":"UC Berkeley",
+ "red":"253",
+ "green":"181",
+ "blue":"20"
+ },
+ {
+ "latitude":34.985991,
+ "longitude":135.751895,
+ "description":"•  I traveled to Japan in 7th grade.\n•  I love everything about the Japanese culture, from the sense of simplicity to the savvy technology.",
+ "category":"INTEREST",
+ "name":"Kyoto, Japan",
+ "red":"97",
+ "green":"1",
+ "blue":"82"
+ },
+ {
+ "latitude":46.806816,
+ "longitude":7.149632,
+ "description":"•  Sophomore year of high school I took part in an exchange trip to Switzerland.\n•  Seeing the stark differences between Swiss and American culture opened my eyes to new ways of life.",
+ "category":"INTEREST",
+ "name":"Fribourg, Switzerland",
+ "red":"101",
+ "green":"137",
+ "blue":"235"
+ },
+ {
+ "latitude":37.771203,
+ "longitude":-122.404939,
+ "description":"•  Built a voice-activated camera at TechCrunch Disrupt SF 2013.\n•  Recognized by RadiumOne for API usage.",
+ "category":"PROJECT",
+ "name":"SpeakToSnap",
+ "red":"205",
+ "green":"81",
+ "blue":"81",
+ "title_links":["https://itunes.apple.com/us/app/speaktosnap/id704057948?mt=8"],
+ "text_for_title_links":["SpeakToSnap"]
+ },
+ {
+ "latitude":37.967994,
+ "longitude":-122.537750,
+ "description":"•  iOS app to facilitate communication between teachers and parents.\n•  Helps elementary school parents stay in touch with the classroom.\n•  Will be piloted at elementary schools in San Rafael.",
+ "category":"PROJECT",
+ "name":"iClassroom",
+ "red":"220",
+ "green":"220",
+ "blue":"220"
+ },
+ {
+ "latitude":37.759225,
+ "longitude":-122.411253,
+ "description":"•  Food-centric social network.\n•  Enables restaurant discovery through images and proximity rather than simply text.\n•  Came up with the idea while sharing a stunning cup of Sightglass Coffee.",
+ "category":"PROJECT",
+ "name":"Dish",
+ "red":"185",
+ "green":"220",
+ "blue":"164"
+ },
+ {
+ "latitude":34.013612,
+ "longitude":-118.493951,
+ "description":"•  While at HackTech, we took advantage of the New Year's Snapchat username leak and their weak CAPTCHA to exploit their service.\n•  CEO Evan Spiegel came to the hackathon to hear about our hack.",
+ "category":"PROJECT",
+ "name":"SnapHack",
+ "red":"242",
+ "green":"230",
+ "blue":"60",
+ "body_links":["https://twitter.com/evanspiegel/status/427180962414219264"],
+ "text_for_body_links":["came to the hackathon"]
+ },
+ {
+ "latitude":42.358376,
+ "longitude":-71.096324,
+ "description":"•  Built an app at HackMIT that provided recommendations on interesting things to do around you.\n•  Based recommendations off what your friends had done nearby.",
+ "category":"PROJECT",
+ "name":"Here",
+ "red":"220",
+ "green":"220",
+ "blue":"220"
+ },
+ {
+ "latitude":28.632215,
+ "longitude":77.241326,
+ "description":"•  Two of my friends and I founded a global business and entrepreneurship program at Harker.\n•  The now biannual trip was designed to give high school students greater exposure to India and its startup culture.",
+ "category":"INTEREST",
+ "name":"New Delhi, India",
+ "title_links":["http://indiatrip.harker.org"],
+ "text_for_title_links":["New Delhi, India"],
+ "red":"255",
+ "green":"153",
+ "blue":"52"
+ }
+]
